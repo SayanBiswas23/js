@@ -1,0 +1,19 @@
+{
+  "name": "basicbackend",
+  "version": "1.0.0",
+  "description": "learing backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "author": "Sayan Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
